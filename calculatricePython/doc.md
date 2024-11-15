@@ -1,3 +1,4 @@
-# Calculatrice Python
+# *Calculatrice Python*
 
-# Fait au début de la première année de BTS SIO.
+#### Fait au début de la première année de BTS SIO.
+

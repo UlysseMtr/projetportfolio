@@ -32,5 +32,4 @@ def calculatrice():
         print(f"Valeur absolue : {abs(num)}")
     else:
         print("Choix invalide.")
-
 calculatrice()
